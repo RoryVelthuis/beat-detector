@@ -13,7 +13,7 @@ This project demonstrates a web application that uses WebSockets to process audi
 ### Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/web-socket-test.git
+git clone https://github.com/RoryVelthuis/beat-detector.git
 cd web-socket-test
 ```
 
@@ -50,6 +50,11 @@ npm install
 pip install -r requirements.txt
 ```
 
+#### Start the server
+```sh
+npm run dev
+```
+
 ### Web client
 
 #### Navigate to the web-client directory:
@@ -62,15 +67,10 @@ cd web-client
 npm install
 ```
 
-### Running the project
-
-#### Start the server terminal
+#### Start the web-client
 ```sh
 npm run dev
 ```
 
-#### Start the development server:
-```sh
-npm run dev
-```
+
 
